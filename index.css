@@ -1,0 +1,16 @@
+
+
+img { width: 200px;
+    height: auto;
+}
+
+section {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+flex-direction: row;
+row-gap: 30px;  
+column-gap: 10px;
+
+
+}
